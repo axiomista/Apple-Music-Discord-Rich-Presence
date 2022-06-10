@@ -125,7 +125,7 @@ Open Discord and the Music App
 To use the python file, open the terminal, navigate to the location where the repo was cloned and then type
 
 ```sh
-    python3 discord-apple_music
+    python3 discord-apple_music.py
 ```
 
 <!-- ROADMAP -->
